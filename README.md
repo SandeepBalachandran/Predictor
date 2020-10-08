@@ -34,19 +34,37 @@
   
 </p>
 <hr>
+<h2 align="center">A collection of Regression models</h2> 
 
 # Table of contents
 
+- [Introduction](#introduction)
 - [Usage](#usage)
 - [Installation](#installation)
+- [Available models](#models)
 - [Contribute](#contribute)
 
+# Introduction
+- Predictor is a collection of regression models used for different purposes. :smiley:
+- Check available models right [here](#models). The collection looking for your valuable contribution. :heart: 
+- The repo is purely for learning purpose. :notebook:
+
 # Usage
-
-
+*For **developers**.*
+- Clone this repository using.
+  - Using HTTP protocol, <code>git clone https://github.com/SandeepBalachandran/Predictor.git</code>
+  - Using SSH protocol,  <code>git clone git@github.com:SandeepBalachandran/Predictor.git</code>
+  - Using GitHub CLI,  <code>gh repo clone SandeepBalachandran/Predictor</code>
+- Go to desired location
+- Run the notebook
+- Predict the values.
 
 # Installation
-
-
+- Python notebook is prefered.
+- Anaconda / Mini conda / Packages used
+# Available models
+-
+-
 
 # Contribute
+Please check the [**Contributing Guidelines**](https://github.com/SandeepBalachandran/Predictor/blob/master/CONTRIBUTING.md) before contributing.
