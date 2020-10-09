@@ -62,7 +62,7 @@
 # Installation
 - Python notebook is prefered.
 - Anaconda / Mini conda / Packages used
-# Available models
+# Models
 -
 -
 
