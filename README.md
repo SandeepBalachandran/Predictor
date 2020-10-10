@@ -41,12 +41,12 @@
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Available models](#models)
+- [Available models](#available-models)
 - [Contribute](#contribute)
 
 # Introduction
 - Predictor is a collection of regression models used for different purposes. :smiley:
-- Check available models right [here](#models). The collection looking for your valuable contribution. :heart: 
+- Check available models right [here](#availabe-models). The collection looking for your valuable contribution. :heart: 
 - The repo is purely for learning purpose. :notebook:
 
 # Usage
@@ -62,7 +62,7 @@
 # Installation
 - Python notebook is prefered.
 - Anaconda / Mini conda / Packages used
-# Models
+# Available Models
 -
 -
 
