@@ -63,7 +63,7 @@
 - Python notebook is prefered.
 - Anaconda / Mini conda / Packages used
 # Available Models
--
+- Celsius to Fahrenheit Prediction
 -
 
 # Contribute
