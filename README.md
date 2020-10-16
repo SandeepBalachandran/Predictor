@@ -32,6 +32,12 @@
     <img alt="ESLint" src="https://img.shields.io/github/forks/SandeepBalachandran/Predictor">
   </a>
   
+  <a href="" target="_blank">
+    <img alt="Codesize" src="https://img.shields.io/github/languages/code-size/SandeepBalachandran/Predictor.svg">
+  </a>
+  <a href="" target="_blank">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/SandeepBalachandran/Predictor.svg">
+  </a>
 </p>
 <hr>
 <h2 align="center">A collection of Regression models</h2> 
